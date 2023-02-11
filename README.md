@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @casmdz
 - 👀 I’m interested in movies and angel lore
-- 🌱 I’m currently learning python and html
+- 🌱 I’m currently learning python, html, javascript, react
 - 💞️ I’m learning with Coding Temple
 
 
